@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseApp", "..\..\..\Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesApp", "..\..\..\Documents\Downloads\EmployeesApp\EmployeesApp\EmployeesApp.csproj", "{2B66DBCC-1C6F-AF23-A360-59F8ED161269}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\LinqPractice\LinqPractice\IgnoreCaseComparer.cs = ..\..\..\..\..\LinqPractice\LinqPractice\IgnoreCaseComparer.cs
+		..\..\..\..\..\LinqPractice\LinqPractice\README.txt = ..\..\..\..\..\LinqPractice\LinqPractice\README.txt
+		..\..\..\..\..\LinqPractice\LinqPractice\Task1_DeferredVsImmediate.cs = ..\..\..\..\..\LinqPractice\LinqPractice\Task1_DeferredVsImmediate.cs
+		..\..\..\..\..\LinqPractice\LinqPractice\Task2_AllAnyContains.cs = ..\..\..\..\..\LinqPractice\LinqPractice\Task2_AllAnyContains.cs
+		..\..\..\..\..\LinqPractice\LinqPractice\Task3_FirstLast.cs = ..\..\..\..\..\LinqPractice\LinqPractice\Task3_FirstLast.cs
+		..\..\..\..\..\LinqPractice\LinqPractice\User.cs = ..\..\..\..\..\LinqPractice\LinqPractice\User.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
