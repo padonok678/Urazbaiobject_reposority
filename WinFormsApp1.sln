@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncPractice", "..\..\..\Documents\Downloads\AsyncPracticeProject\AsyncPractice\AsyncPractice.csproj", "{7625874B-5C44-A16D-8E03-4A5BCD90A054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorpFleet", "..\..\..\Documents\Downloads\CorpFleet\CorpFleet\CorpFleet.csproj", "{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{7625874B-5C44-A16D-8E03-4A5BCD90A054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7625874B-5C44-A16D-8E03-4A5BCD90A054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7625874B-5C44-A16D-8E03-4A5BCD90A054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
