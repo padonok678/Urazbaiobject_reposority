@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp2", "..\WinForms
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseApp", "..\..\..\Documents\Downloads\WarehouseApp\WarehouseApp\WarehouseApp.csproj", "{395E1E81-82B4-C9D2-8952-4A71899B6729}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesApp", "..\..\..\Documents\Downloads\EmployeesApp\EmployeesApp\EmployeesApp.csproj", "{2B66DBCC-1C6F-AF23-A360-59F8ED161269}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Всяфильтрациясортировка потом делается в  nursayat ", "..\..\..\Documents\Downloads\EmployeesApp\EmployeesApp\Всяфильтрациясортировка потом делается в  nursayat .csproj", "{2B66DBCC-1C6F-AF23-A360-59F8ED161269}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
 	ProjectSection(SolutionItems) = preProject
@@ -20,15 +20,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 		..\..\..\..\..\LinqPractice\LinqPractice\User.cs = ..\..\..\..\..\LinqPractice\LinqPractice\User.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncPractice", "..\..\..\Documents\Downloads\AsyncPracticeProject\AsyncPractice\AsyncPractice.csproj", "{7625874B-5C44-A16D-8E03-4A5BCD90A054}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asinxron metchod URazbai nursayat", "..\..\..\Documents\Downloads\AsyncPracticeProject\AsyncPractice\asinxron metchod URazbai nursayat.csproj", "{7625874B-5C44-A16D-8E03-4A5BCD90A054}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorpFleet", "..\..\..\Documents\Downloads\CorpFleet\CorpFleet\CorpFleet.csproj", "{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncResultsPractice", "..\..\..\Documents\Downloads\AsyncResultsPractice\AsyncResultsPractice\AsyncResultsPractice.csproj", "{061C9056-7D7E-8607-BDFD-39FDAB08676B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asyns практиканурсаят", "..\..\..\Documents\Downloads\AsyncResultsPractice\AsyncResultsPractice\asyns практиканурсаят.csproj", "{061C9056-7D7E-8607-BDFD-39FDAB08676B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicCrm", "..\..\..\Documents\Downloads\ClinicCrm\ClinicCrm\ClinicCrm.csproj", "{DC229EF1-EE7E-503C-9DF3-FAE1463E1959}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практические по курсу ооп и linq", "..\..\..\Documents\Downloads\ClinicCrm\ClinicCrm\Практические по курсу ооп и linq.csproj", "{DC229EF1-EE7E-503C-9DF3-FAE1463E1959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "..\..\..\Documents\Downloads\TypeConversions\TypeConversions\TypeConversions.csproj", "{22DB065A-9CDB-5367-4714-174D1AF9F951}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПрактикумПреобразованиетиповисоставныеоператоры", "..\..\..\Documents\Downloads\TypeConversions\TypeConversions\ПрактикумПреобразованиетиповисоставныеоператоры.csproj", "{22DB065A-9CDB-5367-4714-174D1AF9F951}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
