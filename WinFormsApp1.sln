@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp2", "..\WinFormsApp2\WinFormsApp2.csproj", "{3A3D0C46-173A-4C98-8847-661B000938C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseApp", "..\..\..\Documents\Downloads\WarehouseApp\WarehouseApp\WarehouseApp.csproj", "{395E1E81-82B4-C9D2-8952-4A71899B6729}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Всяфильтрациясортировка потом делается в  nursayat ", "..\..\..\Documents\Downloads\EmployeesApp\EmployeesApp\Всяфильтрациясортировка потом делается в  nursayat .csproj", "{2B66DBCC-1C6F-AF23-A360-59F8ED161269}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\..\LinqPractice\LinqPractice\IgnoreCaseComparer.cs = ..\..\..\..\..\LinqPractice\LinqPractice\IgnoreCaseComparer.cs
@@ -20,15 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 		..\..\..\..\..\LinqPractice\LinqPractice\User.cs = ..\..\..\..\..\LinqPractice\LinqPractice\User.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asinxron metchod URazbai nursayat", "..\..\..\Documents\Downloads\AsyncPracticeProject\AsyncPractice\asinxron metchod URazbai nursayat.csproj", "{7625874B-5C44-A16D-8E03-4A5BCD90A054}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorpFleet", "..\..\..\Documents\Downloads\CorpFleet\CorpFleet\CorpFleet.csproj", "{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asyns практиканурсаят", "..\..\..\Documents\Downloads\AsyncResultsPractice\AsyncResultsPractice\asyns практиканурсаят.csproj", "{061C9056-7D7E-8607-BDFD-39FDAB08676B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практические по курсу ооп и linq", "..\..\..\Documents\Downloads\ClinicCrm\ClinicCrm\Практические по курсу ооп и linq.csproj", "{DC229EF1-EE7E-503C-9DF3-FAE1463E1959}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПрактикумПреобразованиетиповисоставныеоператоры", "..\..\..\Documents\Downloads\TypeConversions\TypeConversions\ПрактикумПреобразованиетиповисоставныеоператоры.csproj", "{22DB065A-9CDB-5367-4714-174D1AF9F951}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asinxron metchod URazbai nursayat", "..\..\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\asinxron metchod URazbai nursayat.csproj", "{EF068FFD-92AF-1998-F29B-D6ADEF6812CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,34 +32,10 @@ Global
 		{3A3D0C46-173A-4C98-8847-661B000938C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A3D0C46-173A-4C98-8847-661B000938C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A3D0C46-173A-4C98-8847-661B000938C5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{395E1E81-82B4-C9D2-8952-4A71899B6729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{395E1E81-82B4-C9D2-8952-4A71899B6729}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{395E1E81-82B4-C9D2-8952-4A71899B6729}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{395E1E81-82B4-C9D2-8952-4A71899B6729}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2B66DBCC-1C6F-AF23-A360-59F8ED161269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B66DBCC-1C6F-AF23-A360-59F8ED161269}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B66DBCC-1C6F-AF23-A360-59F8ED161269}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B66DBCC-1C6F-AF23-A360-59F8ED161269}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7625874B-5C44-A16D-8E03-4A5BCD90A054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7625874B-5C44-A16D-8E03-4A5BCD90A054}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7625874B-5C44-A16D-8E03-4A5BCD90A054}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7625874B-5C44-A16D-8E03-4A5BCD90A054}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7797F10-8D06-ED69-0CD4-3A3A6FAB2EB7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{061C9056-7D7E-8607-BDFD-39FDAB08676B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{061C9056-7D7E-8607-BDFD-39FDAB08676B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{061C9056-7D7E-8607-BDFD-39FDAB08676B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{061C9056-7D7E-8607-BDFD-39FDAB08676B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DC229EF1-EE7E-503C-9DF3-FAE1463E1959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC229EF1-EE7E-503C-9DF3-FAE1463E1959}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC229EF1-EE7E-503C-9DF3-FAE1463E1959}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC229EF1-EE7E-503C-9DF3-FAE1463E1959}.Release|Any CPU.Build.0 = Release|Any CPU
-		{22DB065A-9CDB-5367-4714-174D1AF9F951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22DB065A-9CDB-5367-4714-174D1AF9F951}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22DB065A-9CDB-5367-4714-174D1AF9F951}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22DB065A-9CDB-5367-4714-174D1AF9F951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF068FFD-92AF-1998-F29B-D6ADEF6812CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF068FFD-92AF-1998-F29B-D6ADEF6812CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF068FFD-92AF-1998-F29B-D6ADEF6812CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF068FFD-92AF-1998-F29B-D6ADEF6812CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
