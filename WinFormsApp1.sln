@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asinxron metchod URazbai nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "обработка исключение", "..\..\ПО-32 работа padonok678\ExceptionsPractice\ExceptionsPractice\обработка исключение.csproj", "{00FEDABF-10C9-4FF0-AC12-CCE90FEC0D06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObrabotkaAndGeneration", "..\..\ПО-32 работа padonok678\ObrabotkaAndGeneration\ObrabotkaAndGeneration\ObrabotkaAndGeneration.csproj", "{CC55F17B-0E95-9DA9-4F14-928B386D86B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,10 @@ Global
 		{00FEDABF-10C9-4FF0-AC12-CCE90FEC0D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00FEDABF-10C9-4FF0-AC12-CCE90FEC0D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00FEDABF-10C9-4FF0-AC12-CCE90FEC0D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC55F17B-0E95-9DA9-4F14-928B386D86B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC55F17B-0E95-9DA9-4F14-928B386D86B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC55F17B-0E95-9DA9-4F14-928B386D86B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC55F17B-0E95-9DA9-4F14-928B386D86B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
