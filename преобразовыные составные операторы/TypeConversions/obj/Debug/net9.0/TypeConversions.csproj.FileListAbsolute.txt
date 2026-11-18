@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\bin\Debug\net9.0\TypeConversions.exe
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\bin\Debug\net9.0\TypeConversions.deps.json
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\bin\Debug\net9.0\TypeConversions.runtimeconfig.json
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\bin\Debug\net9.0\TypeConversions.dll
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\bin\Debug\net9.0\TypeConversions.pdb
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\TypeConversions.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\TypeConversions.AssemblyInfo.cs
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\TypeConversions.dll
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\refint\TypeConversions.dll
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\TypeConversions.pdb
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\TypeConversions.genruntimeconfig.cache
+C:\Users\Student\Documents\Downloads\TypeConversions\TypeConversions\obj\Debug\net9.0\ref\TypeConversions.dll
