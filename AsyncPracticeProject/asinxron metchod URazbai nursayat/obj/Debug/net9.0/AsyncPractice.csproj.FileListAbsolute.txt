@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\bin\Debug\net9.0\AsyncPractice.exe
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\bin\Debug\net9.0\AsyncPractice.deps.json
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\bin\Debug\net9.0\AsyncPractice.runtimeconfig.json
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\bin\Debug\net9.0\AsyncPractice.dll
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\bin\Debug\net9.0\AsyncPractice.pdb
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\AsyncPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\AsyncPractice.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\AsyncPractice.AssemblyInfo.cs
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\AsyncPractice.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\AsyncPractice.dll
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\refint\AsyncPractice.dll
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\AsyncPractice.pdb
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\AsyncPractice.genruntimeconfig.cache
+C:\Users\Student\Documents\Downloads\AsyncPracticeProject\AsyncPractice\obj\Debug\net9.0\ref\AsyncPractice.dll

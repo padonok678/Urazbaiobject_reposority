@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\bin\Debug\net9.0\asinxron metchod URazbai nursayat.exe
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\bin\Debug\net9.0\asinxron metchod URazbai nursayat.deps.json
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\bin\Debug\net9.0\asinxron metchod URazbai nursayat.runtimeconfig.json
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\bin\Debug\net9.0\asinxron metchod URazbai nursayat.dll
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\bin\Debug\net9.0\asinxron metchod URazbai nursayat.pdb
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\asinxron metchod URazbai nursayat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\asinxron metchod URazbai nursayat.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\asinxron metchod URazbai nursayat.AssemblyInfo.cs
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\asinxron metchod URazbai nursayat.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\asinxron metchod URazbai nursayat.dll
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\refint\asinxron metchod URazbai nursayat.dll
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\asinxron metchod URazbai nursayat.pdb
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\asinxron metchod URazbai nursayat.genruntimeconfig.cache
+C:\Users\Student\Desktop\ПО-32 работа padonok678\AsyncPracticeProject\asinxron metchod URazbai nursayat\obj\Debug\net9.0\ref\asinxron metchod URazbai nursayat.dll
